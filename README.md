@@ -6,9 +6,9 @@
 
 <p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=naveenkumar1209" alt="naveenkumar1209" /></a> </p>
 
-- 🔭 I’m currently working on **RPA project**
+- 🔭 I’m currently working on **Data Science Project**
 
-- 🌱 I’m currently learning **MERN Stack,RPA**
+- 🌱 I’m currently learning **MERN Stack,RPA,AI,Computer Vision**
 
 - 👯 I’m looking to collaborate for **Projects**
 
