@@ -23,12 +23,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/naveenkumar.20msc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="naveenkumar.20msc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/naveenkumars" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveenkumars" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/naveen-kumar-s-b23982228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveenkumars" height="30" width="40" /></a>
 <a href="https://kaggle.com/itsnaveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="itsnaveen" height="30" width="40" /></a>
-<a href="https://fb.com/naveenkumars" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naveenkumars" height="30" width="40" /></a>
-<a href="https://instagram.com/naveenkumars" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naveenkumars" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naveenkumars" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naveenkumars" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/naveenkumar.20msc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="naveenkumar.20msc" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/naveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="naveen" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Naveen_Kumar_S_20ISR031/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="naveen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
