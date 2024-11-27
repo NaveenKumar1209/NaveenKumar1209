@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Data Science Project**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **cloud AWS**
 
 - 👯 I’m looking to collaborate for **Projects**
 
