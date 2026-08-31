@@ -6,15 +6,15 @@
 
 <p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=naveenkumar1209" alt="naveenkumar1209" /></a> </p>
 
-- 🔭 I’m currently working on **Data Science Project**
+- 🔭 I’m currently working on **Full Stack Developer**
 
-- 🌱 I’m currently learning **cloud AWS**
+- 🌱 I’m currently learning **AI Agent**
 
 - 👯 I’m looking to collaborate for **Projects**
 
 - 💞 I like to sovling problems in **Leetcode**
 
-- 💬 Ask me about **Data Science**
+- 💬 Ask me about **Tech Stack & Tech Related Things**
 
 - 📫 How to reach me **snaveenkumar1209@gmail.com**
 
